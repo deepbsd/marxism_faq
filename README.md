@@ -10,4 +10,6 @@ granular fashion and also a flyover fashion.  A FAQ lets a
 person answer questions that are either big picture or narrow
 focussed as desired.
 
-
+I'm composing for the moment in LibreOffice Writer.  I'll save
+copies in that format and also in RTF that can be easily read
+in other word processors.
